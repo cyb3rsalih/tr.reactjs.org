@@ -1,14 +1,14 @@
 # reactjs.org
 
-This repo contains the source code and documentation powering [reactjs.org](https://reactjs.org/).
+Bu kaynak [reactjs.org](https://reactjs.org/)'un kaynak kodunu ve dokümantasyonunu içerir.
 
-## Getting started
+## Hazırlık
 
-### Prerequisites
+### Ön Gereksinimler
 
 1. Git
-1. Node: any 8.x version starting with 8.4.0 or greater
-1. Yarn: See [Yarn website for installation instructions](https://yarnpkg.com/lang/en/docs/install/)
+1. Node:  8.x versiyonunun 8.4.0 veya daha üst sürümleri
+1. Yarn:  [Yarn kurulum talimatları](https://yarnpkg.com/lang/en/docs/install/)
 1. A fork of the repo (for any contributions)
 1. A clone of the [reactjs.org repo](https://github.com/reactjs/reactjs.org) on your local machine
 
